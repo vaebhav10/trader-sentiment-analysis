@@ -49,9 +49,11 @@ This project analyzes how market sentiment (Fear/Greed) impacts trader behavior 
 
 ## Setup
 
-Install required libraries:
+1. Clone the repository or download the files
+   
+3. Install required dependencies:
+   pip install -r requirements.txt
 
-pip install pandas numpy matplotlib seaborn
 
 ## How to Run
 
