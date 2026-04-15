@@ -62,8 +62,6 @@ matplotlib==3.10.0
 matplotlib-inline==0.2.1
 minify_html==0.18.1
 mistune==3.2.0
-# Editable install with no version control (ml-project==0.1.0)
--e c:\users\shivanand\onedrive\desktop\ml_project1
 multimethod==1.12
 nbclient==0.10.4
 nbconvert==7.17.1
